@@ -15,11 +15,11 @@ This project aims to develop a system that retrieves data from a user's Stripe a
 
 1. Clone the repository:
 
-   git clone https://github.com/AbenezerAberaa/Stripe_api_integration
+   git clone https://github.com/AbenezerAberaa/Stripe_api_integrations
 
 2. Navigate to the project directory:
 
-   cd Stripe_api_integration
+   cd Stripe_api_integrations
 
 3. Install the dependencies:
    pip install -r requirements.txt
