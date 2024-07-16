@@ -11,7 +11,7 @@ To get started with the Stripe_Management project, follow these steps:
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone <repository-url>
+git clone https://github.com/AbenezerAberaa/Stripe_api_integrations
 cd Stripe_Management
 ```
 
