@@ -21,7 +21,7 @@ Create and activate a virtual environment:
 
 ```shell
 python3 -m venv env
-source env/bin/activate
+source env/bin/activate or .\env\Scripts\activate
 ```
 
 ### Install Dependencies
